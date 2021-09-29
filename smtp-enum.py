@@ -1,5 +1,5 @@
 #!usr/bin/python3
-#by ANONYMOUS
+#by a-nonymou-s
 import sys
 import socket
 if len(sys.argv) !=3 :
